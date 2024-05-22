@@ -1,5 +1,5 @@
 
-# Kahawa Design System [ 🚧 Work in progress 👷‍♀️⛏👷🔧️🚧 \]
+# Kahawa Design System [ 🚧 Work in progress 👷‍♀️⛏🔧️🚧 ]
 
 What is a design system:
 
